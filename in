@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Image Gallery</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="https://kit.fontawesome.com/464a8e8d14.js"></script>
+</head>
+
+<body>
+    <div class="text-center">
+        <h1 class="display-1">Live Image Gallery</h1>
+        <h5 class="mb-5 text-muted">Click the image to know more.</h5>
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+
+            <div class="gallery">
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1448814100339-234df1d4005d?crop=entropy&fit=crop&fm=jpg&h=400&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=600" alt="" />
+                    <figcaption>Daytona Beach <small>United States</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1443890923422-7819ed4101c0?crop=entropy&fit=crop&fm=jpg&h=400&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=600" alt="" />
+                    <figcaption>Териберка, gorod Severomorsk <small>Russia</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1445964047600-cdbdb873673d?crop=entropy&fit=crop&fm=jpg&h=400&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=600" alt="" />
+                    <figcaption>Bad Pyrmont <small>Deutschland</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1439798060585-62ab242d7724?crop=entropy&fit=crop&fm=jpg&h=400&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=600" alt="" />
+                    <figcaption>Yellowstone National Park <small>United States</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1440339738560-7ea831bf5244?crop=entropy&fit=crop&fm=jpg&h=400&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=600" alt="" />
+                    <figcaption>Quiraing, Portree <small>United Kingdom</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1441906363162-903afd0d3d52?crop=entropy&fit=crop&fm=jpg&h=400&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=600" alt="" />
+                    <figcaption>Highlands <small>United States</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.indianexpress.com/2019/05/taj-mahal-amp.jpg" alt="" />
+                    <figcaption>Taj Mahal, Agra <small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.thrillophilia.com/image/upload/s--48fr2Gab--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/239/746/original/1587752090_1576830344_auli1.jpg.jpg.jpg" alt="" />
+                    <figcaption>Auli, Uttarakhand <small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/1920px-Wild_horses1.jpg" alt="" />
+                    <figcaption>Erciyes Mountain <small>Turkey</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="http://www.thelandofsnows.com/wp-content/uploads/2015/03/Ladakh-Pangong-Lake-1024x618.jpg" alt="" />
+                    <figcaption>Pangong Tso, Leh <small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1606373664971-bf9b25eb508d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3171&q=80" alt="" />
+                    <figcaption>Boston, MA <small>United States</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://wallpaperaccess.com/full/6182428.jpg" alt="" />
+                    <figcaption>Great Ocean Road, Victoria <small>Australia</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://idsb.tmgrup.com.tr/ly/uploads/images/2020/05/08/34440.jpg" alt="" />
+                    <figcaption>Pamukkale <small>Turkey</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://www.ootlah.com/wp-content/uploads/2021/04/shu-hero-778448884-1440x823-1.jpg" alt="" />
+                    <figcaption>Marrakesh <small>Morocco</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://c0.wallpaperflare.com/preview/682/317/188/india-mussoorie-landour-cloudscape.jpg" alt="" />
+                    <figcaption>Mussoorie, Uttarakhand <small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/12/statue-of-unity-1575646730.jpg" alt="" />
+                    <figcaption>Kevadia, Gujarat <small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://www.indiasinvitation.com/wp-content/uploads/2017/08/rajasthan-tourist-places1.jpg" alt="" />
+                    <figcaption>Jal Mahal, Jaipur<small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://i.pinimg.com/originals/17/16/e3/1716e3453c62d64b875043de3f8a96f5.jpg" alt="Mount Fuji" />
+                    <figcaption>Mount Fuji, Fujinomiya<small>Japan</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1506795213373-430e921fe2ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80" alt="Kingdom Tower, Riyadh." />
+                    <figcaption>Kingdom Tower, Riyadh <small>KSA</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1610962895729-2975a9717fad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1856&q=80" alt="kasol, Himachal Pradesh" />
+                    <figcaption>Kasol, Himachal Pradesh <small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1537267013710-d7b37fa331b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Ittoqqortoormiit, Greenland." />
+                    <figcaption>Ittoqqortoormiit <small>Greenland</small></figcaption>
+                </figure> 
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1633107390463-bae1819e4ff1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="" />
+                    <figcaption>Northen Lights <small>Sweden</small></figcaption>
+                </figure>
+              
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1518124880777-cf8c82231ffb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1232&q=80" alt="Reine, Norway" />
+                    <figcaption>Reine<small>Norway</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1595815771614-ade9d652a65d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" alt="Jammu, India" />
+                    <figcaption>Jammu<small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80" alt="Goa, India" />
+                    <figcaption>Goa<small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1574&q=80" alt="Reine, Norway" />
+                    <figcaption>Reine<small>Norway</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1555865138-193ba536d7e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Tanah Lot, Indonesia" />
+                    <figcaption>Tanah Lot<small>Indonesia</small></figcaption>
+                </figure>
+              
+                <figure>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Qutab_Minar_-_A_landscape_shot_%CC%83_Shyam.jpg" alt="Delhi, India" />
+                    <figcaption>Delhi<small>India</small></figcaption>
+                </figure>
+
+                <figure>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Amber_Fort_%28%E0%A4%86%E0%A4%AE%E0%A5%87%E0%A4%B0_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A4%BE_%29.jpg/1200px-Amber_Fort_%28%E0%A4%86%E0%A4%AE%E0%A5%87%E0%A4%B0_%E0%A4%95%E0%A4%BE_%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A4%BE_%29.jpg" alt="Amer Fort, Jaipur." />
+                    <figcaption>Amer Fort, Jaipur <small>India</small></figcaption>
+                </figure>
+                
+                <figure>
+                    <img src="https://c4.wallpaperflare.com/wallpaper/751/70/339/amazing-landscape-view-of-niagara-falls-in-ny-united-states-wallpaper-preview.jpg" alt="Niagara Falls." />
+                    <figcaption>Niagara Falls <small>Canada</small></figcaption>
+                </figure>
+                
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" />
+                    <figcaption>Kinney Lake <small>Canada</small></figcaption>
+                </figure>
+                
+                <figure>
+                    <img src="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=876&q=80" alt="Deutschland, Elsenfeld"/>
+                    <figcaption>Deutschland <small>Elsenfeld</small></figcaption>
+                </figure>
+
+                <!--        Copy the figure tags along with the content and paste it above this comment.
+                             Replace the link in the src attribute with the image link.
+                             Also change the content in figcaption and small tags according to the location
+                 -->
+
+
+            </div>
+
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="display:none;">
+                <symbol id="close" viewBox="0 0 18 18">
+                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M9,0.493C4.302,0.493,0.493,4.302,0.493,9S4.302,17.507,9,17.507
+                            S17.507,13.698,17.507,9S13.698,0.493,9,0.493z M12.491,11.491c0.292,0.296,0.292,0.773,0,1.068c-0.293,0.295-0.767,0.295-1.059,0
+                            l-2.435-2.457L6.564,12.56c-0.292,0.295-0.766,0.295-1.058,0c-0.292-0.295-0.292-0.772,0-1.068L7.94,9.035L5.435,6.507
+                            c-0.292-0.295-0.292-0.773,0-1.068c0.293-0.295,0.766-0.295,1.059,0l2.504,2.528l2.505-2.528c0.292-0.295,0.767-0.295,1.059,0
+                            s0.292,0.773,0,1.068l-2.505,2.528L12.491,11.491z"/>
+                </symbol>
+            </svg>
+        </div>
+    </div>
+
+
+    <section id="contact">
+
+
+        <div class="links-icons">
+            <a href="https://www.facebook.com/mohdfawad99"><i class="fab fa-facebook fa-2x"></i></a>
+            <a href="https://twitter.com/_fawaaad"><i class="fab fa-twitter fa-2x"></i></a>
+            <a href="https://www.instagram.com/_fawaaad/"><i class="fab fa-instagram fa-2x"></i></a>
+            <a href="https://www.youtube.com/"><i class="fab fa-youtube-square fa-2x"></i></a>
+            <a href="https://www.linkedin.com/in/mohd-fawad/"><i class="fab fa-invision fa-2x"></i></a>
+        </div>
+    </section>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
